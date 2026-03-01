@@ -77,6 +77,7 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
 - Applied deep learning to phylogenetic analysis of protein sequences  
 - Conducted exploratory data analysis and model evaluation in Python  
 - Collaborated with team to improve model performance  
+
 ---
 
 ## ⚙️ Technical Stack
@@ -110,7 +111,6 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
   <img src="https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
----
 ---
 
 ## 📄 Publications
@@ -154,6 +154,14 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
 - Reproducible preprocessing across heterogeneous acquisitions  
 
 ---
+
+## 🧩 Key Pipeline Components
+
+- **ROI Cropping Utilities** — memory-efficient heart localization  
+- **Class-Specific Mask Extraction** — reliable multi-label handling  
+- **Dataset Configuration & Packaging** — reproducible training setup  
+- **Scan–Mask Consistency Checks** — automated data validation  
+- **Geometry Harmonization Pipeline** — spacing/orientation normalization  
 
 ## 🎓 Education
 
