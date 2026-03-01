@@ -12,7 +12,7 @@
   <a href="mailto:umarfaruksahin@outlook.com">
     <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/omer-faruk-sahin-875287237">
+  <a href="www.linkedin.com/in/ömer-faruk-şahin-875287237">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
