@@ -158,7 +158,7 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
 ## 🧩 Key Pipeline Components
 
 - 🔗 [ROI Cropping Utilities](https://github.com/OmerFSahin/ROI-Cropping-Utilities) — memory-efficient heart localization  
-- **Class-Specific Mask Extraction** — reliable multi-label handling  
+- 🔗 [Class-Specific Mask Extraction](https://github.com/OmerFSahin/Class-Specific-Mask-Extraction) — reliable multi-label handling  
 - **Dataset Configuration & Packaging** — reproducible training setup  
 - **Scan–Mask Consistency Checks** — automated data validation  
 - **Geometry Harmonization Pipeline** — spacing/orientation normalization  
