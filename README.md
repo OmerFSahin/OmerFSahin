@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Medical AI • MRI Analysis • Clinical Imaging Pipelines</b><br>
+  <b>Medical AI • MRI/CT Analysis • Clinical Imaging Pipelines</b><br>
   MSc Bioinformatics @ University of Potsdam • Open to Opportunities
 </p>
 
