@@ -116,7 +116,7 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
 ## 📄 Publications
 
 - **Deep learning-based automatic segmentation in pediatric cardiovascular imaging-Conference Paper**  
-  *ECS (Conference Paper)* 
+  *ECS (Conference Paper)*  
   <a href="https://doi.org/10.1093/ehjdh/ztaf143.105">
     <img src="https://img.shields.io/badge/DOI-10.1093/ehjdh/ztaf143.105-blue?style=flat-square"/>
   </a>
