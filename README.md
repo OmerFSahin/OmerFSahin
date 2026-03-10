@@ -117,8 +117,8 @@ Contributed to an end-to-end **3D cardiac MRI segmentation pipeline** with stron
 
 - **Deep learning-based automatic segmentation in pediatric cardiovascular imaging-Conference Paper**
   *ECS (Conference Paper)* 
-  <a href="https://doi.org/10.1109/TIPTEKNO68206.2025.11270201">
-    <img src="https://img.shields.io/badge/DOI-10.1109/TIPTEKNO68206.2025.11270201-blue?style=flat-square"/>
+  <a href="https://doi.org/10.1093/ehjdh/ztaf143.105">
+    <img src="https://img.shields.io/badge/DOI-10.1093/ehjdh/ztaf143.105-blue?style=flat-square"/>
   </a>
   
 - **3D U-Net-Based Deep Learning Approach for Pediatric Cardiovascular MRI Segmentation**  
